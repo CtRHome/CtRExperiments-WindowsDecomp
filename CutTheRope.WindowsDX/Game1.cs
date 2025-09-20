@@ -82,7 +82,7 @@ namespace CutTheRope
 			}
 			Global.GraphicsDeviceManager.PreparingDeviceSettings += GraphicsDeviceManager_PreparingDeviceSettings;
 			base.TargetElapsedTime = TimeSpan.FromTicks(166666L);
-			base.IsFixedTimeStep = false;
+			base.IsFixedTimeStep = true;
 			base.InactiveSleepTime = TimeSpan.FromTicks(500000L);
 			base.IsMouseVisible = true;
 			base.Activated += Game1_Activated;
@@ -317,7 +317,7 @@ namespace CutTheRope
 			}
 			else
 			{
-				base.IsFixedTimeStep = false;
+				base.IsFixedTimeStep = true;
 			}
 			keyboardStateXna = Keyboard.GetState();
 			/*
