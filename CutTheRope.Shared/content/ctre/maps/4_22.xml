@@ -1,0 +1,27 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="480" />
+<gameDesign ropePhysicsSpeed="1.0" twoParts="false" />
+</layer>
+<layer name="Objects">
+<target x="161" y="406" />
+<rocket x="161" y="302" angle="-90" impulse="20" impulseFactor="0.6" time="-1" isRotatable="true" />
+<star x="161" y="81" timeout="-1" />
+<star x="226" y="233" timeout="-1" />
+<star x="92" y="233" timeout="-1" />
+<candy x="161" y="231" />
+<bouncer2 x="160" y="459" angle="0" size="2" />
+<bouncer2 x="161" y="31" angle="180" size="2" />
+<bouncer2 x="17" y="241" angle="90" size="2" />
+<bouncer2 x="17" y="147" angle="90" size="2" />
+<bouncer2 x="300" y="153" angle="-90" size="2" />
+<bouncer2 x="302" y="247" angle="-90" size="2" />
+<bouncer2 x="58" y="61" angle="140" size="2" />
+<bouncer2 x="264" y="65" angle="-140" size="2" />
+<grab x="161" y="113" length="100" wheel="false" gun="false" kickable="false" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<rocket x="218" y="89" angle="135" impulse="20" impulseFactor="0.6" time="-1" isRotatable="true" />
+<rocket x="101" y="92" angle="45" impulse="20" impulseFactor="0.6" time="-1" isRotatable="true" />
+<bouncer1 x="81" y="435" angle="45" size="1" />
+<bouncer1 x="244" y="437" angle="-45" size="1" />
+</layer>
+</map>

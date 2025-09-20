@@ -1,0 +1,19 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="480" />
+<gameDesign ropePhysicsSpeed="1.0" special="1" twoParts="false" />
+</layer>
+<layer name="Objects">
+<bouncer2 x="57" y="263" angle="0" size="2" />
+<bouncer2 x="163" y="263" angle="0" size="2" />
+<bouncer2 x="263" y="263" angle="0" size="2" />
+<grab x="71" y="376" length="200" wheel="false" gun="false" kickable="false" kicked="false" radius="-1" invisible="false" moveLength="150" moveVertical="true" moveOffset="75" spider="false" part="L" />
+<grab x="259" y="376" length="200" wheel="false" gun="false" kickable="false" kicked="false" radius="-1" invisible="false" moveLength="150" moveVertical="true" moveOffset="75" spider="false" part="L" />
+<candy x="168" y="220" />
+<star x="35" y="224" timeout="-1" />
+<star x="289" y="224" timeout="-1" />
+<bubble x="33" y="218" />
+<star x="169" y="158" timeout="-1" />
+<target x="161" y="67" />
+</layer>
+</map>

@@ -1,0 +1,22 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="640" height="480" />
+<gameDesign special="1" twoParts="false" ropePhysicsSpeed="1" water="90" waterSpeed="0" />
+</layer>
+<layer name="Objects">
+<hand x="168" y="98" segmentsCount="1" segment1Angle="0" segment1Length="85" segment1Rotatable="true" segment2Angle="0" segment2Length="10" segment2Rotatable="true" segment3Angle="0" segment3Length="10" segment3Rotatable="true" />
+<candy x="486" y="393" />
+<target x="563" y="265" />
+<hand x="278" y="167" segmentsCount="1" segment1Angle="0" segment1Length="85" segment1Rotatable="true" segment2Angle="0" segment2Length="10" segment2Rotatable="true" segment3Angle="0" segment3Length="10" segment3Rotatable="true" />
+<hand x="384" y="238" segmentsCount="1" segment1Angle="0" segment1Length="85" segment1Rotatable="true" segment2Angle="0" segment2Length="10" segment2Rotatable="true" segment3Angle="0" segment3Length="10" segment3Rotatable="true" />
+<hand x="484" y="317" segmentsCount="1" segment1Angle="0" segment1Length="85" segment1Rotatable="true" segment2Angle="0" segment2Length="10" segment2Rotatable="true" segment3Angle="0" segment3Length="10" segment3Rotatable="true" />
+<star x="84" y="446" timeout="-1" />
+<star x="424" y="175" timeout="-1" />
+<star x="323" y="104" timeout="-1" />
+<spike1 x="220" y="130" angle="37" size="1" toggled="false" />
+<spike1 x="329" y="201" angle="37" size="1" toggled="false" />
+<spike1 x="434" y="276" angle="37" size="1" toggled="false" />
+<pump x="35" y="382" angle="0" />
+<hidden03 x="416" y="59" angle="-10" drawing="8" />
+</layer>
+</map>

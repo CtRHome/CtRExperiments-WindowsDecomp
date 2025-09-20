@@ -1,0 +1,57 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="480" />
+<gameDesign special="1" twoParts="false" ropePhysicsSpeed="1.0" water="0" waterSpeed="0" />
+</layer>
+<layer name="Objects">
+<grab x="46" y="242" length="150" wheel="false" gun="false" kickable="false" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<grab x="282" y="237" length="150" wheel="false" gun="false" kickable="false" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<candy x="156" y="367" />
+<grab x="158" y="418" length="100" wheel="false" gun="false" kickable="false" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<bubble x="51" y="407" />
+<target x="64" y="163" />
+<star x="159" y="148" timeout="6" />
+<star x="115" y="85" timeout="7" />
+<star x="37" y="63" timeout="8" />
+<pump x="162" y="319" angle="270" />
+</layer>
+<layer name='Ru'>
+<tutorialText x='127' y='145' text='Некоторые звезды необходимо собирать быстро' locale='ru' width='200'/>
+<tutorial09 x='120' moveSpeed='100' y='188' rotateSpeed='100' locale='ru'/>
+</layer>
+<layer name='En'>
+<tutorial09 x='252' moveSpeed='100' y='66' rotateSpeed='100' locale='en'/>
+<tutorialText x='182' y='78' text='Some stars require fast actions to be collected' locale='en' width='140'/>
+</layer>
+<layer name='De'>
+<tutorialText x='137' y='145' text='Bei einigen Sternen musst du beim Einsammeln schnell sein.' locale='de' width='180'/>
+<tutorial09 x='124' moveSpeed='100' y='200' rotateSpeed='100' locale='de'/>
+</layer>
+<layer name='Fr'>
+<tutorialText x='115' y='150' text='Certaines étoiles requièrent des actions rapides pour être recueillies' locale='fr' width='170'/>
+<tutorial09 x='195' moveSpeed='100' y='140' rotateSpeed='100' locale='fr'/>
+</layer>
+<layer name='Zh'>
+<tutorialText x='135' y='148' text='需要手疾眼快*才能收集到某些星星' locale='zh' width='180'/>
+<tutorial09 x='125' moveSpeed='100' y='178' rotateSpeed='100' locale='zh'/>
+</layer>
+<layer name='Ja'>
+<tutorialText x='135' y='149' text='素早く*行動しないと*取れない*スターも*あります' locale='ja' width='180'/>
+<tutorial09 x='125' moveSpeed='100' y='188' rotateSpeed='100' locale='ja'/>
+</layer>
+<layer name='it'>
+<tutorialText x='140' y='145' text='Per recuperare certe stelle, sono necessarie azioni rapide' locale='it' width='160'/>
+<tutorial09 x='126' moveSpeed='100' y='200' rotateSpeed='100' locale='it'/>
+</layer><layer name='es'>
+<tutorialText x='130' y='145' text='Necesitarás buenos reflejos para conseguir algunas estrellas.' locale='es' width='180'/>
+<tutorial09 x='126' moveSpeed='100' y='200' rotateSpeed='100' locale='es'/>
+</layer><layer name='ko'>
+<tutorialText x='140' y='150' text='어떤 별은 손놀림이 *빨라야 모을 수 있어요.' locale='ko' width='160'/>
+<tutorial09 x='126' moveSpeed='100' y='188' rotateSpeed='100' locale='ko'/>
+</layer><layer name='br'>
+<tutorialText x='120' y='152' text='Algumas estrelas exigem ações rápidas para serem coletadas' locale='br' width='190'/>
+<tutorial09 x='208' moveSpeed='100' y='146' rotateSpeed='100' locale='br'/>
+</layer><layer name='nl'>
+<tutorialText x='110' y='150' text='Om sommige sterren te kunnen verzamelen, is snelle actie vereist' locale='nl' width='190'/>
+<tutorial09 x='204' moveSpeed='100' y='144' rotateSpeed='100' locale='nl'/>
+</layer></map>

@@ -1,0 +1,20 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="480" />
+<gameDesign ropePhysicsSpeed="1.0" special="1" twoParts="false" />
+</layer>
+<layer name="Objects">
+<candy x="160" y="316" />
+<target x="162" y="439" />
+<bubble x="160" y="317" />
+<grab x="36" y="413" length="130" wheel="false" gun="false" kickable="false" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<grab x="291" y="413" length="130" wheel="false" gun="false" kickable="false" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<star x="162" y="381" moveSpeed="100" rotateSpeed="0" timeout="-1" />
+<grab x="93" y="231" length="100" wheel="false" gun="false" kickable="false" kicked="false" radius="70" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<grab x="231" y="231" length="100" wheel="false" gun="false" kickable="false" kicked="false" radius="70" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<spike3 x="232" y="232" angle="0" size="3" path="0,0" moveSpeed="40" rotateSpeed="40" toggled="false" />
+<spike3 x="90" y="232" angle="0" size="3" path="0,0" moveSpeed="-40" rotateSpeed="-40" toggled="false" />
+<star x="161" y="32" timeout="-1" />
+<star x="161" y="73" timeout="-1" />
+</layer>
+</map>

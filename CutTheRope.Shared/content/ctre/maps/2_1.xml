@@ -1,0 +1,54 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="480" />
+<gameDesign special="1" twoParts="false" ropePhysicsSpeed="1.0" water="0" waterSpeed="0" />
+</layer>
+<layer name="Objects">
+<grab x="62" y="115" length="95" wheel="false" gun="false" kickable="false" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<candy x="47" y="230" />
+<grab x="246" y="130" length="100" wheel="false" gun="true" kickable="false" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<target x="246" y="336" />
+<star x="98" y="356" path="0,-100" moveSpeed="40" timeout="-1" />
+<star x="144" y="376" path="0,-100" moveSpeed="40" timeout="-1" />
+<star x="191" y="393" path="0,-100" moveSpeed="40" timeout="-1" />
+</layer>
+<layer name='Ru'>
+<tutorial04 angle='180' x='182' moveSpeed='100' y='147' rotateSpeed='100' locale='ru'/>
+<tutorialText x='87' y='150' text='Нажмите эту кнопку, чтобы выстрелить веревкой в леденец' locale='ru' width='150'/>
+</layer>
+<layer name='En'>
+<tutorialText x='106' y='139' text='Press this button to shoot candy with the rope' locale='en' width='100'/>
+<tutorial04 angle='180' x='179' moveSpeed='100' y='136' rotateSpeed='100' locale='en'/>
+</layer>
+<layer name='De'>
+<tutorial04 angle='180' x='182' moveSpeed='100' y='148' rotateSpeed='100' locale='de'/>
+<tutorialText x='78' y='154' text='Drücke diese Taste, um mit dem Seil Bonbons abzuschießen.' locale='de' width='180'/>
+</layer>
+<layer name='Fr'>
+<tutorial04 angle='180' x='182' moveSpeed='100' y='147' rotateSpeed='100' locale='fr'/>
+<tutorialText x='77' y='149' text='Touche ce bouton pour tirer une corde sur le bonbon' locale='fr' width='180'/>
+</layer>
+<layer name='Zh'>
+<tutorial04 angle='180' x='182' moveSpeed='100' y='147' rotateSpeed='100' locale='zh'/>
+<tutorialText x='77' y='164' text='按此按钮可用绳索*射击糖果' locale='zh' width='180'/>
+</layer>
+<layer name='Ja'>
+<tutorial04 angle='180' x='182' moveSpeed='100' y='147' rotateSpeed='100' locale='ja'/>
+<tutorialText x='77' y='165' text='このボタンを*押すと、*ロープで*キャンディを*ねらい*撃ち*できます' locale='ja' width='180'/>
+</layer>
+<layer name='it'>
+<tutorial04 angle='180' x='182' moveSpeed='100' y='147' rotateSpeed='100' locale='it'/>
+<tutorialText x='87' y='150' text='Premi questo tasto per sparare il bonbon con la corda' locale='it' width='150'/>
+</layer><layer name='es'>
+<tutorial04 angle='180' x='182' moveSpeed='100' y='147' rotateSpeed='100' locale='es'/>
+<tutorialText x='87' y='150' text='Toca este botón para enganchar el caramelo con una cuerda.' locale='es' width='150'/>
+</layer><layer name='ko'>
+<tutorial04 angle='180' x='182' moveSpeed='100' y='147' rotateSpeed='100' locale='ko'/>
+<tutorialText x='87' y='165' text='버튼을 누르면 *줄로 사탕을 쏴요.' locale='ko' width='150'/>
+</layer><layer name='br'>
+<tutorial04 angle='180' x='182' moveSpeed='100' y='147' rotateSpeed='100' locale='br'/>
+<tutorialText x='87' y='150' text='Aperte este botão para disparar doces com a corda' locale='br' width='150'/>
+</layer><layer name='nl'>
+<tutorial04 angle='180' x='181' moveSpeed='100' y='148' rotateSpeed='100' locale='nl'/>
+<tutorialText x='87' y='150' text='Druk op deze knop om het snoepgoed met het touw weg te schieten' locale='nl' width='150'/>
+</layer></map>

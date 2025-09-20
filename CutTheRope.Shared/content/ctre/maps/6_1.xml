@@ -1,0 +1,58 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="480" />
+<gameDesign special="1" twoParts="false" ropePhysicsSpeed="1.0" water="0" waterSpeed="0" />
+</layer>
+<layer name="Objects">
+<hand x="162" y="255" segmentsCount="2" segment1Angle="180" segment1Length="65" segment1Rotatable="true" segment2Angle="-90" segment2Length="65" segment2Rotatable="true" segment3Angle="0" segment3Length="10" segment3Rotatable="true" />
+<target x="230" y="383" />
+<candy x="99" y="65" />
+<star x="264" y="252" timeout="-1" />
+<star x="164" y="142" timeout="-1" />
+<star x="96" y="325" timeout="-1" />
+</layer>
+<layer name='Ru'>
+<tutorial04 x='216' moveSpeed='100' y='244' rotateSpeed='100' locale='ru'/>
+<tutorialText x='171' y='142' text='Вращайте руку с помощью таких кнопок' locale='ru' width='130'/>
+</layer>
+<layer name='En'>
+<tutorial04 x='217' moveSpeed='100' y='244' rotateSpeed='100' locale='en'/>
+<tutorialText x='173' y='142' text='Rotate the arm with these buttons' locale='en' width='130'/>
+</layer>
+<layer name='It'>
+<tutorial04 x='216' moveSpeed='100' y='244' rotateSpeed='100' locale='it'/>
+<tutorialText x='154' y='146' text='Usa questi pulsanti per ruotare il braccio' locale='it' width='150'/>
+</layer>
+<layer name='Ja'>
+<tutorial04 x='217' moveSpeed='100' y='244' rotateSpeed='100' locale='ja'/>
+<tutorialText x='172' y='132' text='これらの*ボタンで*腕を*回転*させます' locale='ja' width='130'/>
+</layer>
+<layer name='De'>
+<tutorial04 x='217' moveSpeed='100' y='244' rotateSpeed='100' locale='de'/>
+<tutorialText x='172' y='142' text='Rotiere den Arm mit diesen Buttons.' locale='de' width='130'/>
+</layer>
+<layer name='Fr'>
+<tutorial04 x='217' moveSpeed='100' y='244' rotateSpeed='100' locale='fr'/>
+<tutorialText x='172' y='142' text='Fais tourner le bras avec ces boutons' locale='fr' width='130'/>
+</layer>
+<layer name='Es'>
+<tutorial04 x='217' moveSpeed='100' y='244' rotateSpeed='100' locale='es'/>
+<tutorialText x='172' y='142' text='Gira el disco usando este mando' locale='es' width='130'/>
+</layer>
+<layer name='Zh'>
+<tutorial04 x='216' moveSpeed='100' y='244' rotateSpeed='100' locale='zh'/>
+<tutorialText x='184' y='163' text='用这些*按钮*旋转*手臂' locale='zh' width='100'/>
+</layer>
+<layer name='Ko'>
+<tutorial04 x='217' moveSpeed='100' y='243' rotateSpeed='100' locale='ko'/>
+<tutorialText x='172' y='131' text='버튼을 눌러 로봇 팔을 움직이세요.' locale='ko' width='130'/>
+</layer>
+<layer name='Br'>
+<tutorial04 x='218' moveSpeed='100' y='243' rotateSpeed='100' locale='br'/>
+<tutorialText x='173' y='141' text='Faça o braço girar com estes botões' locale='br' width='130'/>
+</layer>
+<layer name='Nl'>
+<tutorial04 x='218' moveSpeed='100' y='243' rotateSpeed='100' locale='nl'/>
+<tutorialText x='173' y='141' text='Draai de arm met deze knoppen' locale='nl' width='130'/>
+</layer>
+</map>

@@ -1,0 +1,22 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="480" />
+<gameDesign ropePhysicsSpeed="1.0" twoParts="false" />
+</layer>
+<layer name="Objects">
+<target x="159" y="438" />
+<rocket x="160" y="254" angle="-90" impulse="17" impulseFactor="0.6" time="-1" isRotatable="false" />
+<candy x="160" y="217" />
+<grab x="30" y="122" length="130" wheel="false" gun="false" kickable="true" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<grab x="30" y="182" length="130" wheel="false" gun="false" kickable="true" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<grab x="30" y="246" length="130" wheel="false" gun="false" kickable="true" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<grab x="290" y="246" length="130" wheel="false" gun="false" kickable="true" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<grab x="290" y="182" length="130" wheel="false" gun="false" kickable="true" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<grab x="290" y="122" length="130" wheel="false" gun="false" kickable="true" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<star x="161" y="116" timeout="-1" />
+<grab x="290" y="306" length="130" wheel="false" gun="false" kickable="true" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<star x="161" y="49" timeout="-1" />
+<star x="161" y="81" timeout="-1" />
+<grab x="30" y="306" length="130" wheel="false" gun="false" kickable="true" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+</layer>
+</map>

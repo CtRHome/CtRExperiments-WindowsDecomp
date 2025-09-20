@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--For NativeAOT-->
+<Directives>
+  <Application>
+    <Assembly Name="MonoGame.Framework" Dynamic="Required All"/>
+    <Assembly Name="SharpDX" Dynamic="Required All"/>
+    <Assembly Name="SharpDX.Direct3D11" Dynamic="Required All"/>
+    <Assembly Name="SharpDX.DXGI" Dynamic="Required All"/>
+    <Assembly Name="SharpDX.MediaFoundation" Dynamic="Required All"/>
+    <Assembly Name="SharpDX.XAudio2" Dynamic="Required All"/>
+    <Assembly Name="SharpDX.XInput" Dynamic="Required All"/>
+    <Assembly Name="SharpDX.Direct2D1" Dynamic="Required All"/>
+    <Assembly Name="mscorlib" />
+  </Application>
+</Directives>

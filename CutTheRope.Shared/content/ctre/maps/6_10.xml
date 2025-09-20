@@ -1,0 +1,17 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="480" />
+<gameDesign special="1" twoParts="false" ropePhysicsSpeed="1.0" water="0" waterSpeed="0" />
+</layer>
+<layer name="Objects">
+<hand x="161" y="252" segmentsCount="2" segment1Angle="-90" segment1Length="141" segment1Rotatable="true" segment2Angle="0" segment2Length="45" segment2Rotatable="false" segment3Angle="0" segment3Length="10" segment3Rotatable="false" />
+<candy x="112" y="84" />
+<grab x="110" y="18" length="30" wheel="false" gun="false" kickable="false" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<hand x="161" y="252" segmentsCount="2" segment1Angle="-90" segment1Length="93" segment1Rotatable="true" segment2Angle="0" segment2Length="45" segment2Rotatable="false" segment3Angle="0" segment3Length="10" segment3Rotatable="true" />
+<hand x="161" y="252" segmentsCount="2" segment1Angle="-90" segment1Length="45" segment1Rotatable="true" segment2Angle="0" segment2Length="45" segment2Rotatable="false" segment3Angle="0" segment3Length="10" segment3Rotatable="false" />
+<target x="67" y="426" />
+<star x="265" y="379" timeout="10" />
+<star x="58" y="250" timeout="7.5" />
+<star x="205" y="303" timeout="5" />
+</layer>
+</map>

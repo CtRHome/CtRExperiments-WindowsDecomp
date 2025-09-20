@@ -1,0 +1,22 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="480" />
+<gameDesign ropePhysicsSpeed="1.0" special="1" twoParts="false" />
+</layer>
+<layer name="Objects">
+<star x="193" y="361" path="20,50" moveSpeed="50" timeout="-1" />
+<star x="93" y="270" path="-60,-30" moveSpeed="50" timeout="-1" />
+<star x="232" y="266" path="40,-40" moveSpeed="60" timeout="-1" />
+<bubble x="159" y="309" />
+<candy x="158" y="309" />
+<pump x="157" y="155" angle="90" />
+<pump x="285" y="291" angle="180" />
+<target x="156" y="47" />
+<pump x="31" y="295" angle="0" />
+<pump x="254" y="199" angle="120" />
+<pump x="61" y="203" angle="60" />
+<pump x="254" y="395" angle="240" />
+<pump x="161" y="434" angle="270" />
+<pump x="74" y="389" angle="-60" />
+</layer>
+</map>

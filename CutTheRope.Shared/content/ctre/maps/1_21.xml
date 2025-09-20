@@ -1,0 +1,59 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="480" />
+<gameDesign special="1" twoParts="false" ropePhysicsSpeed="1.0" water="0" waterSpeed="0" />
+</layer>
+<layer name="Objects">
+<candy x="267" y="183" />
+<grab x="268" y="88" length="60" wheel="false" gun="false" kickable="false" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<target x="86" y="78" />
+<star x="130" y="363" path="0,100" moveSpeed="30" timeout="-1" />
+<bouncer1 x="280" y="293" angle="-5" size="1" />
+<bouncer1 x="205" y="350" angle="-5" size="1" />
+<bouncer1 x="131" y="399" angle="-5" size="1" />
+<star x="204" y="311" path="0,100" moveSpeed="30" timeout="-1" />
+<star x="279" y="254" path="0,100" moveSpeed="30" timeout="-1" />
+<bubble x="49" y="349" />
+<grab x="83" y="203" length="100" wheel="false" gun="false" kickable="false" kicked="false" radius="60" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+</layer>
+<layer name="Ru">
+<tutorialText x="150" y="184" locale="ru" text="Леденец отскакивает от таких платформ" width="100" />
+<tutorial04 x="268" y="241" locale="ru" angle="-90" moveSpeed="100" rotateSpeed="100" />
+</layer>
+<layer name='En'>
+<tutorialText x='145' y='191' text='Candy will bounce away from this platform' locale='en' width='110'/>
+<tutorial04 angle='-90' x='268' moveSpeed='100' y='241' rotateSpeed='100' locale='en'/>
+</layer>
+<layer name='De'>
+<tutorialText x='150' y='179' text='Die Süßigkeit wird von der Plattform hüpfen' locale='de' width='110'/>
+<tutorial04 angle='-90' x='278' moveSpeed='100' y='248' rotateSpeed='100' locale='de'/>
+</layer>
+<layer name='Fr'>
+<tutorial04 angle='-90' x='268' moveSpeed='100' y='241' rotateSpeed='100' locale='fr'/>
+<tutorialText x='141' y='184' text='Le bonbon rebondira hors de cette plate-forme' locale='fr' width='110'/>
+</layer>
+<layer name='Zh'>
+<tutorial04 angle='-90' x='260' moveSpeed='100' y='252' rotateSpeed='100' locale='zh'/>
+<tutorialText x='140' y='204' text='糖果将从
+这个平台上弹走' locale='zh' width='110'/>
+</layer>
+<layer name='Ja'>
+<tutorial04 angle='-90' x='266' moveSpeed='100' y='249' rotateSpeed='100' locale='ja'/>
+<tutorialText x='55' y='215' text='この*プラットホームに*乗った*キャンディは*弾んで*跳ね返ります' locale='ja' width='190'/>
+</layer>
+<layer name='it'>
+<tutorialText x='150' y='184' text='Il bonbon rimbalzerà fuori dalla piattaforma' locale='it' width='100'/>
+<tutorial04 angle='-90' x='268' moveSpeed='100' y='241' rotateSpeed='100' locale='it'/>
+</layer><layer name='es'>
+<tutorialText x='150' y='184' text='El caramelo rebota al tocar esta plataforma.' locale='es' width='100'/>
+<tutorial04 angle='-90' x='268' moveSpeed='100' y='241' rotateSpeed='100' locale='es'/>
+</layer><layer name='ko'>
+<tutorialText x='150' y='184' text='여기에서는 사탕이 *튕겨요.' locale='ko' width='100'/>
+<tutorial04 angle='-90' x='268' moveSpeed='100' y='241' rotateSpeed='100' locale='ko'/>
+</layer><layer name='br'>
+<tutorialText x='150' y='184' text='Doces quicarão para longe desta plataforma' locale='br' width='100'/>
+<tutorial04 angle='-90' x='268' moveSpeed='100' y='241' rotateSpeed='100' locale='br'/>
+</layer><layer name='nl'>
+<tutorialText x='150' y='184' text='Het snoepje stuitert tegen dit oppervlak' locale='nl' width='100'/>
+<tutorial04 angle='-90' x='268' moveSpeed='100' y='241' rotateSpeed='100' locale='nl'/>
+</layer></map>

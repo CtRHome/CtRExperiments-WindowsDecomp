@@ -1,0 +1,56 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="480" />
+<gameDesign special="1" twoParts="false" ropePhysicsSpeed="0.9" water="0" waterSpeed="0" />
+</layer>
+<layer name="Objects">
+<grab x="43" y="55" length="100" wheel="false" gun="false" kickable="false" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<candy x="42" y="177" />
+<rocket x="43" y="309" angle="90" impulse="20" impulseFactor="0.6" time="-1" isRotatable="true" />
+<rocket x="268" y="96" angle="-90" impulse="20" impulseFactor="0.6" time="-1" isRotatable="true" />
+<target x="260" y="313" />
+<star x="122" y="220" timeout="-1" />
+<star x="266" y="217" timeout="-1" />
+<star x="189" y="145" timeout="-1" />
+</layer>
+<layer name='En'>
+<tutorialText x='60' y='355' text='You can change the rocket&apos;s angle by tapping on it or rotating it' locale='en' width='180'/>
+<tutorial04 angle='90' x='55' moveSpeed='100' y='378' rotateSpeed='100' locale='en'/>
+</layer>
+<layer name='Ru'>
+<tutorial04 angle='90' x='59' moveSpeed='100' y='378' rotateSpeed='100' locale='ru'/>
+<tutorialText x='65' y='355' text='Направление запуска можно изменить вращением ракеты' locale='ru' width='170'/>
+</layer>
+<layer name='De'>
+<tutorial04 angle='90' x='57' moveSpeed='100' y='379' rotateSpeed='100' locale='de'/>
+<tutorialText x='73' y='349' text='Du kannst den Raketenwinkel durch Antippen oder Drehen ändern.' locale='de' width='130'/>
+</layer>
+<layer name='Fr'>
+<tutorial04 angle='90' x='53' moveSpeed='100' y='378' rotateSpeed='100' locale='fr'/>
+<tutorialText x='70' y='369' text='Tu peux changer l&apos;angle emprunté par la fusée en la faisant tourner.' locale='fr' width='195'/>
+</layer>
+<layer name='Zh'>
+<tutorial04 angle='90' x='67' moveSpeed='100' y='378' rotateSpeed='100' locale='zh'/>
+<tutorialText x='49' y='371' text='你可以通过触按或*旋转火箭来改变其角度' locale='zh' width='250'/>
+</layer>
+<layer name='Ja'>
+<tutorial04 angle='90' x='53' moveSpeed='100' y='378' rotateSpeed='100' locale='ja'/>
+<tutorialText x='50' y='361' text='ロケットを*回転させると
+*その*角度を*調節*できます' locale='ja' width='250'/>
+</layer>
+<layer name='it'>
+<tutorial04 angle='90' x='59' moveSpeed='100' y='378' rotateSpeed='100' locale='it'/>
+<tutorialText x='65' y='355' text='Puoi cambiare l&apos;angolazione del missile toccandolo o ruotandolo' locale='it' width='170'/>
+</layer><layer name='es'>
+<tutorial04 angle='90' x='59' moveSpeed='100' y='378' rotateSpeed='100' locale='es'/>
+<tutorialText x='65' y='355' text='Puedes cambiar el ángulo del cohete tocándolo o girándolo.' locale='es' width='170'/>
+</layer><layer name='ko'>
+<tutorial04 angle='90' x='54' moveSpeed='100' y='378' rotateSpeed='100' locale='ko'/>
+<tutorialText x='75' y='355' text='로켓을 터치하거나 *돌려서 각도를 *조절할 수 있어요.' locale='ko' width='170'/>
+</layer><layer name='br'>
+<tutorial04 angle='90' x='59' moveSpeed='100' y='378' rotateSpeed='100' locale='br'/>
+<tutorialText x='65' y='355' text='Você pode alterar o ângulo do foguete tocando nele ou girando o mesmo' locale='br' width='170'/>
+</layer><layer name='nl'>
+<tutorial04 angle='90' x='59' moveSpeed='100' y='378' rotateSpeed='100' locale='nl'/>
+<tutorialText x='65' y='355' text='Draai de raket om de hoek ervan te wijzigen' locale='nl' width='170'/>
+</layer></map>

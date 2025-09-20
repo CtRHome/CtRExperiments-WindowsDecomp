@@ -1,0 +1,20 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="480" />
+<gameDesign special="1" twoParts="false" ropePhysicsSpeed="1" water="0" waterSpeed="0" />
+</layer>
+<layer name="Objects">
+<hand x="86" y="274" segmentsCount="1" segment1Angle="90" segment1Length="70" segment1Rotatable="true" segment2Angle="0" segment2Length="10" segment2Rotatable="true" segment3Angle="0" segment3Length="10" segment3Rotatable="true" />
+<hand x="227" y="274" segmentsCount="1" segment1Angle="90" segment1Length="70" segment1Rotatable="true" segment2Angle="0" segment2Length="10" segment2Rotatable="true" segment3Angle="0" segment3Length="10" segment3Rotatable="true" />
+<hand x="86" y="416" segmentsCount="1" segment1Angle="-90" segment1Length="70" segment1Rotatable="true" segment2Angle="0" segment2Length="10" segment2Rotatable="true" segment3Angle="0" segment3Length="10" segment3Rotatable="true" />
+<hand x="227" y="416" segmentsCount="1" segment1Angle="-90" segment1Length="70" segment1Rotatable="true" segment2Angle="0" segment2Length="10" segment2Rotatable="true" segment3Angle="0" segment3Length="10" segment3Rotatable="true" />
+<star x="155" y="333" timeout="-1" />
+<star x="167" y="459" timeout="-1" />
+<star x="160" y="62" timeout="-1" />
+<grab x="155" y="142" length="90" wheel="false" gun="false" kickable="false" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<target x="281" y="86" />
+<candy x="71" y="218" />
+<spike1 x="184" y="335" angle="90" size="1" toggled="false" />
+<spike1 x="128" y="335" angle="90" size="1" toggled="false" />
+</layer>
+</map>

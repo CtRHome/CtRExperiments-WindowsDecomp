@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RollForward>Major</RollForward>
+    <!--<UseWindowsForms>true</UseWindowsForms>--> <!--It will cause the AOT build failed-->
+
+    <RootNamespace />
+
+    <PublishAot>true</PublishAot>
+    <TrimMode>full</TrimMode>
+  </PropertyGroup>
+  <ItemGroup>
+    <RdXmlFile Include="RD.xml" />
+  </ItemGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="MonoGame.Framework.WindowsDX" Version="3.8.1.303" />
+    <PackageReference Include="WinFormsComInterop" Version="0.4.3" />
+  </ItemGroup>
+  <Import Project="..\CutTheRope.Shared\CutTheRope.Shared.projitems" Label="Shared" />
+  <Import Project="..\Version.props" />
+</Project>

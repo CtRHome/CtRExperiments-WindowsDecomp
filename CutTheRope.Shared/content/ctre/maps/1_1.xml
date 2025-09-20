@@ -1,0 +1,130 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="480" />
+<gameDesign special="1" twoParts="false" ropePhysicsSpeed="1.0" water="0" waterSpeed="0" />
+</layer>
+<layer name='Ru'>
+<tutorial10 x='62' moveSpeed='100' y='177' rotateSpeed='100' special='2' locale='ru'/>
+<tutorial01 x='109' moveSpeed='100' y='116' rotateSpeed='100' locale='ru'/>
+<tutorial01 x='57' moveSpeed='100' y='116' rotateSpeed='100' locale='ru'/>
+<tutorial01 x='161' moveSpeed='100' y='116' rotateSpeed='100' locale='ru'/>
+<tutorial01 x='213' moveSpeed='100' y='116' rotateSpeed='100' locale='ru'/>
+<tutorial01 x='265' moveSpeed='100' y='116' rotateSpeed='100' locale='ru'/>
+<tutorialText x='177' y='15' text='Перережьте веревку движением пальца' locale='ru' width='130'/>
+<tutorial04 x='231' moveSpeed='100' y='405' rotateSpeed='100' locale='ru'/>
+<tutorialText x='196' y='304' text='Накормите Ам Няма леденцом' locale='ru' width='100'/>
+</layer>
+<layer name='Fr'>
+<tutorial10 x='48' moveSpeed='100' y='195' rotateSpeed='100' special='2' locale='fr'/>
+<tutorial01 x='109' moveSpeed='100' y='114' rotateSpeed='100' locale='fr'/>
+<tutorial01 x='57' moveSpeed='100' y='114' rotateSpeed='100' locale='fr'/>
+<tutorial01 x='161' moveSpeed='100' y='114' rotateSpeed='100' locale='fr'/>
+<tutorial01 x='213' moveSpeed='100' y='114' rotateSpeed='100' locale='fr'/>
+<tutorial01 x='265' moveSpeed='100' y='114' rotateSpeed='100' locale='fr'/>
+<tutorialText x='169' y='28' text='Faites glisser votre doigt pour couper la corde' locale='fr' width='140'/>
+<tutorial04 x='231' moveSpeed='100' y='405' rotateSpeed='100' locale='fr'/>
+<tutorialText x='186' y='305' text='Déposez le bonbon à cet endroit' locale='fr' width='130'/>
+</layer>
+<layer name='De'>
+<tutorial10 x='48' moveSpeed='100' y='200' rotateSpeed='100' special='2' locale='de'/>
+<tutorial01 x='109' moveSpeed='100' y='119' rotateSpeed='100' locale='de'/>
+<tutorial01 x='57' moveSpeed='100' y='119' rotateSpeed='100' locale='de'/>
+<tutorial01 x='161' moveSpeed='100' y='119' rotateSpeed='100' locale='de'/>
+<tutorial01 x='213' moveSpeed='100' y='119' rotateSpeed='100' locale='de'/>
+<tutorial01 x='265' moveSpeed='100' y='119' rotateSpeed='100' locale='de'/>
+<tutorialText x='36' y='52' text='Wische mit dem Finger, um das Seil durchzuschneiden' locale='de' width='250'/>
+<tutorial04 x='231' moveSpeed='100' y='402' rotateSpeed='100' locale='de'/>
+<tutorialText x='180' y='324' text='Bring Om Nom die Süßigkeit' locale='de' width='130'/>
+</layer>
+<layer name='En'>
+<tutorial01 x='58' moveSpeed='100' y='116' rotateSpeed='100' locale='en'/>
+<tutorial01 x='110' moveSpeed='100' y='116' rotateSpeed='100' locale='en'/>
+<tutorial01 x='162' moveSpeed='100' y='116' rotateSpeed='100' locale='en'/>
+<tutorial01 x='214' moveSpeed='100' y='116' rotateSpeed='100' locale='en'/>
+<tutorial01 x='266' moveSpeed='100' y='116' rotateSpeed='100' locale='en'/>
+<tutorialText x='177' y='21' text='Slide your finger to cut the rope' locale='en' width='130'/>
+<tutorial04 x='231' moveSpeed='100' y='406' rotateSpeed='100' locale='en'/>
+<tutorialText x='177' y='325' text='Deliver candy to Om Nom' locale='en' width='130'/>
+<tutorial10 x='62' moveSpeed='100' y='178' rotateSpeed='100' special='2' locale='en'/>
+</layer>
+<layer name="Objects">
+<candy x="164" y="170" />
+<grab x="161" y="41" length="115" wheel="false" gun="false" kickable="false" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<target x="165" y="406" />
+<star x="162" y="296" path="RC10" moveSpeed="40" timeout="-1" />
+<star x="160" y="295" path="RW30" moveSpeed="70" timeout="-1" />
+<star x="161" y="294" path="RC50" moveSpeed="60" timeout="-1" />
+</layer>
+<layer name='Zh'>
+<tutorial10 x='60' moveSpeed='100' y='180' rotateSpeed='100' special='2' locale='zh'/>
+<tutorial01 x='108' moveSpeed='100' y='120' rotateSpeed='100' locale='zh'/>
+<tutorial01 x='56' moveSpeed='100' y='120' rotateSpeed='100' locale='zh'/>
+<tutorial01 x='160' moveSpeed='100' y='120' rotateSpeed='100' locale='zh'/>
+<tutorial01 x='212' moveSpeed='100' y='120' rotateSpeed='100' locale='zh'/>
+<tutorial01 x='264' moveSpeed='100' y='120' rotateSpeed='100' locale='zh'/>
+<tutorialText x='174' y='58' text='滑动你的手指*即可剪断绳索' locale='zh' width='120'/>
+<tutorial04 x='231' moveSpeed='100' y='416' rotateSpeed='100' locale='zh'/>
+<tutorialText x='195' y='335' text='将糖果送给 Om Nom' locale='zh' width='110'/>
+</layer>
+<layer name='Ja'>
+<tutorial10 x='60' moveSpeed='100' y='180' rotateSpeed='100' special='2' locale='ja'/>
+<tutorial01 x='108' moveSpeed='100' y='120' rotateSpeed='100' locale='ja'/>
+<tutorial01 x='56' moveSpeed='100' y='120' rotateSpeed='100' locale='ja'/>
+<tutorial01 x='160' moveSpeed='100' y='120' rotateSpeed='100' locale='ja'/>
+<tutorial01 x='212' moveSpeed='100' y='120' rotateSpeed='100' locale='ja'/>
+<tutorial01 x='264' moveSpeed='100' y='120' rotateSpeed='100' locale='ja'/>
+<tutorialText x='166' y='29' text='指を*スライド*させて*ロープを*切り*しましょう' locale='ja' width='140'/>
+<tutorial04 x='231' moveSpeed='100' y='416' rotateSpeed='100' locale='ja'/>
+<tutorialText x='193' y='300' text='Om Nomに*キャンディを*あげ*ましょう' locale='ja' width='120'/>
+</layer>
+<layer name='it'>
+<tutorial10 x='62' moveSpeed='100' y='177' rotateSpeed='100' special='2' locale='it'/>
+<tutorial01 x='109' moveSpeed='100' y='116' rotateSpeed='100' locale='it'/>
+<tutorial01 x='57' moveSpeed='100' y='116' rotateSpeed='100' locale='it'/>
+<tutorial01 x='161' moveSpeed='100' y='116' rotateSpeed='100' locale='it'/>
+<tutorial01 x='213' moveSpeed='100' y='116' rotateSpeed='100' locale='it'/>
+<tutorial01 x='265' moveSpeed='100' y='116' rotateSpeed='100' locale='it'/>
+<tutorialText x='177' y='36' text='Scorri il dito per tagliare la corda' locale='it' width='130'/>
+<tutorial04 x='223' moveSpeed='100' y='405' rotateSpeed='100' locale='it'/>
+<tutorialText x='172' y='325' text='Porta un bonbon a Om Nom' locale='it' width='135'/>
+</layer><layer name='es'>
+<tutorial10 x='62' moveSpeed='100' y='177' rotateSpeed='100' special='2' locale='es'/>
+<tutorial01 x='109' moveSpeed='100' y='116' rotateSpeed='100' locale='es'/>
+<tutorial01 x='57' moveSpeed='100' y='116' rotateSpeed='100' locale='es'/>
+<tutorial01 x='161' moveSpeed='100' y='116' rotateSpeed='100' locale='es'/>
+<tutorial01 x='213' moveSpeed='100' y='116' rotateSpeed='100' locale='es'/>
+<tutorial01 x='265' moveSpeed='100' y='116' rotateSpeed='100' locale='es'/>
+<tutorialText x='177' y='36' text='Desliza el dedo para cortar la cuerda.' locale='es' width='130'/>
+<tutorial04 x='228' moveSpeed='100' y='405' rotateSpeed='100' locale='es'/>
+<tutorialText x='172' y='306' text='Haz llegar el caramelo hasta Om Nom.' locale='es' width='140'/>
+</layer><layer name='ko'>
+<tutorial10 x='62' moveSpeed='100' y='177' rotateSpeed='100' special='2' locale='ko'/>
+<tutorial01 x='109' moveSpeed='100' y='116' rotateSpeed='100' locale='ko'/>
+<tutorial01 x='57' moveSpeed='100' y='116' rotateSpeed='100' locale='ko'/>
+<tutorial01 x='161' moveSpeed='100' y='116' rotateSpeed='100' locale='ko'/>
+<tutorial01 x='213' moveSpeed='100' y='116' rotateSpeed='100' locale='ko'/>
+<tutorial01 x='265' moveSpeed='100' y='116' rotateSpeed='100' locale='ko'/>
+<tutorialText x='167' y='56' text='손가락으로 줄을 *자르세요.' locale='ko' width='130'/>
+<tutorial04 x='231' moveSpeed='100' y='410' rotateSpeed='100' locale='ko'/>
+<tutorialText x='196' y='300' text='Om Nom에게 사탕을 *먹이세요.' locale='ko' width='100'/>
+</layer><layer name='br'>
+<tutorial10 x='62' moveSpeed='100' y='177' rotateSpeed='100' special='2' locale='br'/>
+<tutorial01 x='109' moveSpeed='100' y='116' rotateSpeed='100' locale='br'/>
+<tutorial01 x='57' moveSpeed='100' y='116' rotateSpeed='100' locale='br'/>
+<tutorial01 x='161' moveSpeed='100' y='116' rotateSpeed='100' locale='br'/>
+<tutorial01 x='213' moveSpeed='100' y='116' rotateSpeed='100' locale='br'/>
+<tutorial01 x='265' moveSpeed='100' y='116' rotateSpeed='100' locale='br'/>
+<tutorialText x='177' y='36' text='Deslize o dedo para cortar a corda' locale='br' width='130'/>
+<tutorial04 x='231' moveSpeed='100' y='405' rotateSpeed='100' locale='br'/>
+<tutorialText x='196' y='304' text='Entregue os doces para Om Nom' locale='br' width='100'/>
+</layer><layer name='nl'>
+<tutorial10 x='62' moveSpeed='100' y='177' rotateSpeed='100' special='2' locale='nl'/>
+<tutorial01 x='109' moveSpeed='100' y='116' rotateSpeed='100' locale='nl'/>
+<tutorial01 x='57' moveSpeed='100' y='116' rotateSpeed='100' locale='nl'/>
+<tutorial01 x='161' moveSpeed='100' y='116' rotateSpeed='100' locale='nl'/>
+<tutorial01 x='213' moveSpeed='100' y='116' rotateSpeed='100' locale='nl'/>
+<tutorial01 x='265' moveSpeed='100' y='116' rotateSpeed='100' locale='nl'/>
+<tutorialText x='177' y='15' text='Schuif met je vinger om het touw door te snijden' locale='nl' width='130'/>
+<tutorial04 x='231' moveSpeed='100' y='405' rotateSpeed='100' locale='nl'/>
+<tutorialText x='196' y='304' text='Lever het snoepje af bij Om Nom' locale='nl' width='100'/>
+</layer></map>

@@ -1,0 +1,53 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="480" />
+<gameDesign special="1" twoParts="false" ropePhysicsSpeed="1.0" water="0" waterSpeed="0" />
+</layer>
+<layer name="Objects">
+<target x="161" y="432" />
+<grab x="163" y="59" length="80" wheel="false" gun="false" kickable="true" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<star x="50" y="366" path="230,0" moveSpeed="25" timeout="-1" />
+<candy x="176" y="148" />
+<star x="275" y="301" path="-230,0" moveSpeed="30" timeout="-1" />
+<star x="51" y="237" path="230,0" moveSpeed="55" timeout="-1" />
+</layer>
+<layer name='En'>
+<tutorialText x='17' y='72' text='Suction-cup can be attached and detached with the touch' locale='en' width='125'/>
+<tutorial04 angle='180' x='114' moveSpeed='100' y='67' rotateSpeed='100' locale='en'/>
+</layer>
+<layer name='Ru'>
+<tutorialText x='21' y='72' text='Присоску можно прикрепить и открепить касанием' locale='ru' width='140'/>
+<tutorial04 angle='180' x='114' moveSpeed='100' y='66' rotateSpeed='100' locale='ru'/>
+</layer>
+<layer name='De'>
+<tutorialText x='39' y='70' text='Du kannst Saugnäpfe mit Fingerberührung anbringen oder lösen.' locale='de' width='90'/>
+<tutorial04 angle='180' x='114' moveSpeed='100' y='66' rotateSpeed='100' locale='de'/>
+</layer>
+<layer name='fr'>
+<tutorial04 angle='180' x='117' moveSpeed='100' y='67' rotateSpeed='100' locale='fr'/>
+<tutorialText x='16' y='72' text='Il est possible d&apos;appliquer ou d&apos;enlever la ventouse en la touchant' locale='fr' width='140'/>
+</layer>
+<layer name='Zh'>
+<tutorial04 angle='180' x='117' moveSpeed='100' y='67' rotateSpeed='100' locale='zh'/>
+<tutorialText x='16' y='82' text='可通过触按来吸附*和松开吸盘' locale='zh' width='140'/>
+</layer>
+<layer name='Ja'>
+<tutorial04 angle='180' x='117' moveSpeed='100' y='67' rotateSpeed='100' locale='ja'/>
+<tutorialText x='16' y='85' text='このボタンで*吸盤の*ON/OFFが*できます' locale='ja' width='140'/>
+</layer>
+<layer name='it'>
+<tutorialText x='21' y='72' text='È possibile attaccare e staccare la ventosa toccandola' locale='it' width='140'/>
+<tutorial04 angle='180' x='114' moveSpeed='100' y='66' rotateSpeed='100' locale='it'/>
+</layer><layer name='es'>
+<tutorialText x='21' y='72' text='Las ventosas se pueden pegar y despegar al tocarlas.' locale='es' width='140'/>
+<tutorial04 angle='180' x='114' moveSpeed='100' y='66' rotateSpeed='100' locale='es'/>
+</layer><layer name='ko'>
+<tutorialText x='21' y='82' text='터치로 진공컵을 *붙이거나 뗄 수 있어요.' locale='ko' width='140'/>
+<tutorial04 angle='180' x='114' moveSpeed='100' y='66' rotateSpeed='100' locale='ko'/>
+</layer><layer name='br'>
+<tutorialText x='21' y='72' text='Ventosas podem ser acopladas e destacadas com o toque' locale='br' width='140'/>
+<tutorial04 angle='180' x='114' moveSpeed='100' y='66' rotateSpeed='100' locale='br'/>
+</layer><layer name='nl'>
+<tutorialText x='21' y='72' text='Je kunt de zuignap met een aanraking vast- en losmaken' locale='nl' width='140'/>
+<tutorial04 angle='180' x='114' moveSpeed='100' y='66' rotateSpeed='100' locale='nl'/>
+</layer></map>

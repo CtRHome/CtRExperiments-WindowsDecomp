@@ -1,0 +1,21 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="960" />
+<gameDesign twoParts="false" ropePhysicsSpeed="1.0" water="0" waterSpeed="0" />
+</layer>
+<layer name="Objects">
+<hand x="160" y="771" segmentsCount="1" segment1Angle="-90" segment1Length="90" segment1Rotatable="true" segment2Angle="0" segment2Length="10" segment2Rotatable="true" segment3Angle="0" segment3Length="10" segment3Rotatable="true" />
+<candy x="160" y="632" />
+<target x="250" y="138" />
+<star x="250" y="212" timeout="-1" />
+<star x="70" y="377" timeout="-1" />
+<star x="65" y="650" timeout="-1" />
+<pump x="70" y="857" angle="-90" />
+<pump x="250" y="857" angle="-90" />
+<hand x="255" y="603" segmentsCount="1" segment1Angle="-90" segment1Length="50" segment1Rotatable="true" segment2Angle="0" segment2Length="10" segment2Rotatable="true" segment3Angle="0" segment3Length="10" segment3Rotatable="true" />
+<hand x="160" y="500" segmentsCount="1" segment1Angle="-90" segment1Length="90" segment1Rotatable="true" segment2Angle="0" segment2Length="10" segment2Rotatable="true" segment3Angle="0" segment3Length="10" segment3Rotatable="true" />
+<pump x="70" y="570" angle="-90" />
+<pump x="245" y="385" angle="-90" />
+<hand x="160" y="323" segmentsCount="1" segment1Angle="-90" segment1Length="85" segment1Rotatable="true" segment2Angle="0" segment2Length="10" segment2Rotatable="true" segment3Angle="0" segment3Length="10" segment3Rotatable="true" />
+</layer>
+</map>

@@ -1,0 +1,21 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="960" />
+<gameDesign twoParts="false" ropePhysicsSpeed="1" water="600" waterSpeed="0" />
+</layer>
+<layer name="Objects">
+<spike4 x="156" y="637" angle="0" size="4" path="0,-420" moveSpeed="30" toggled="false" />
+<candy x="155" y="679" />
+<grab x="157" y="814" length="100" wheel="false" gun="false" kickable="false" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<load x="153" y="282" />
+<load x="155" y="382" />
+<load x="156" y="505" />
+<load x="156" y="608" />
+<star x="152" y="329" timeout="-1" />
+<star x="156" y="555" timeout="7" />
+<target x="259" y="735" />
+<star x="155" y="881" timeout="-1" />
+<pump x="54" y="814" angle="0" />
+<load x="156" y="441" />
+</layer>
+</map>

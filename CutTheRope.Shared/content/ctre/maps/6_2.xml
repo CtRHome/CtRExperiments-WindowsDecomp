@@ -1,0 +1,58 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="480" />
+<gameDesign special="1" twoParts="false" ropePhysicsSpeed="1" water="300" waterSpeed="0" />
+</layer>
+<layer name="Objects">
+<hand x="160" y="303" segmentsCount="1" segment1Angle="90" segment1Length="100" segment1Rotatable="true" segment2Angle="90" segment2Length="100" segment2Rotatable="true" segment3Angle="0" segment3Length="50" segment3Rotatable="true" />
+<candy x="160" y="408" />
+<target x="52" y="129" />
+<star x="315" y="130" path="-160,0" moveSpeed="40" timeout="-1" />
+<star x="162" y="130" path="-160,0" moveSpeed="40" timeout="-1" />
+<star x="239" y="130" path="-160,0" moveSpeed="40" timeout="-1" />
+</layer>
+<layer name='Ru'>
+<tutorialText x='190' y='243' text='Чтобы разжать руку, прикоснитесь к леденцу' locale='ru' width='120'/>
+<tutorial09 x='248' moveSpeed='100' y='230' rotateSpeed='100' locale='ru'/>
+</layer>
+<layer name='En'>
+<tutorialText x='191' y='243' text='Tap the candy to release the arm' locale='en' width='100'/>
+<tutorial09 x='249' moveSpeed='100' y='229' rotateSpeed='100' locale='en'/>
+</layer>
+<layer name='It'>
+<tutorialText x='190' y='243' text='Tocca il bonbon per lasciarlo cadere' locale='it' width='120'/>
+<tutorial09 x='248' moveSpeed='100' y='230' rotateSpeed='100' locale='it'/>
+</layer>
+<layer name='Ja'>
+<tutorialText x='190' y='247' text='キャンディを*タップして*腕から*離します' locale='ja' width='120'/>
+<tutorial09 x='248' moveSpeed='100' y='230' rotateSpeed='100' locale='ja'/>
+</layer>
+<layer name='De'>
+<tutorialText x='190' y='243' text='Klicke auf das Bonbon, um es fallen zu lassen.' locale='de' width='120'/>
+<tutorial09 x='248' moveSpeed='100' y='230' rotateSpeed='100' locale='de'/>
+</layer>
+<layer name='Fr'>
+<tutorialText x='190' y='243' text='Touche le bonbon pour relâcher le bras' locale='fr' width='120'/>
+<tutorial09 x='248' moveSpeed='100' y='230' rotateSpeed='100' locale='fr'/>
+</layer>
+<layer name='Es'>
+<tutorialText x='190' y='243' text='Mueve la cuerda de un disco a otro' locale='es' width='120'/>
+<tutorial09 x='248' moveSpeed='100' y='230' rotateSpeed='100' locale='es'/>
+</layer>
+<layer name='Zh'>
+<tutorialText x='190' y='253' text='触按*糖果*即可松手' locale='zh' width='120'/>
+<tutorial09 x='248' moveSpeed='100' y='230' rotateSpeed='100' locale='zh'/>
+</layer>
+<layer name='Ko'>
+<tutorialText x='190' y='250' text='사탕을 눌러 로봇 팔에서 떨어뜨리세요.' locale='ko' width='120'/>
+<tutorial09 x='248' moveSpeed='100' y='230' rotateSpeed='100' locale='ko'/>
+</layer>
+<layer name='Br'>
+<tutorialText x='190' y='243' text='Toque o doce para soltar o braço' locale='br' width='120'/>
+<tutorial09 x='248' moveSpeed='100' y='230' rotateSpeed='100' locale='br'/>
+</layer>
+<layer name='Nl'>
+<tutorialText x='190' y='243' text='Tik op het snoepje om het los te laten' locale='nl' width='120'/>
+<tutorial09 x='248' moveSpeed='100' y='230' rotateSpeed='100' locale='nl'/>
+</layer>
+</map>

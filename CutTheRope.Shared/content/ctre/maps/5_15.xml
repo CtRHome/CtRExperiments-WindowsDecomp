@@ -1,0 +1,19 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="640" height="480" />
+<gameDesign twoParts="false" ropePhysicsSpeed="1" water="170" waterSpeed="0" />
+</layer>
+<layer name="Objects">
+<candy x="442" y="183" />
+<target x="38" y="357" />
+<rocket x="344" y="278" angle="-135" impulse="25" impulseFactor="0.6" time="-1" isRotatable="false" />
+<rocket x="444" y="183" angle="-90" impulse="25" impulseFactor="0.6" time="-1" isRotatable="false" />
+<grab x="314" y="186" length="100" wheel="false" gun="false" kickable="false" kicked="false" radius="55" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<grab x="504" y="186" length="100" wheel="false" gun="false" kickable="false" kicked="false" radius="55" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<star x="407" y="378" timeout="-1" />
+<grab x="124" y="187" length="100" wheel="false" gun="false" kickable="false" kicked="false" radius="55" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<rocket x="164" y="279" angle="-135" impulse="25" impulseFactor="0.6" time="-1" isRotatable="false" />
+<star x="256" y="373" timeout="-1" />
+<star x="89" y="348" timeout="-1" />
+</layer>
+</map>

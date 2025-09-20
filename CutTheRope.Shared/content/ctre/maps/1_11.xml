@@ -1,0 +1,56 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="480" />
+<gameDesign special="1" twoParts="false" ropePhysicsSpeed="1.0" water="0" waterSpeed="0" />
+</layer>
+<layer name="Objects">
+<candy x="52" y="119" />
+<target x="158" y="47" />
+<grab x="55" y="228" length="80" wheel="false" gun="false" kickable="false" kicked="false" radius="-1" invisible="false" moveLength="200" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<bubble x="52" y="118" />
+<star x="169" y="199" moveSpeed="100" rotateSpeed="100" timeout="-1" />
+<grab x="253" y="335" length="100" wheel="false" gun="false" kickable="false" kicked="false" radius="45" invisible="false" moveLength="200" moveVertical="false" moveOffset="200" spider="false" part="L" />
+<bubble x="163" y="419" />
+<star x="265" y="421" moveSpeed="100" rotateSpeed="100" timeout="-1" />
+<star x="66" y="418" moveSpeed="100" rotateSpeed="100" timeout="-1" />
+</layer>
+<layer name='Ru'>
+<tutorial04 angle='120' x='40' moveSpeed='100' y='274' rotateSpeed='100' locale='ru'/>
+<tutorialText x='53' y='253' text='Некоторые крепежи можно двигать пальцем' locale='ru' width='200'/>
+</layer>
+<layer name='Fr'>
+<tutorial04 angle='120' x='36' moveSpeed='100' y='279' rotateSpeed='100' locale='fr'/>
+<tutorialText x='34' y='243' text='Certains crochets de corde peuvent être déplacés avec votre doigt' locale='fr' width='230'/>
+</layer>
+<layer name='De'>
+<tutorial04 angle='120' x='36' moveSpeed='100' y='269' rotateSpeed='100' locale='de'/>
+<tutorialText x='36' y='248' text='Einige Seilhaken kannst du mit dem Finger verschieben.' locale='de' width='250'/>
+</layer>
+<layer name='En'>
+<tutorial04 angle='130' x='35' moveSpeed='100' y='274' rotateSpeed='100' locale='en'/>
+<tutorialText x='40' y='253' text='Some rope hooks can be moved with your finger' locale='en' width='200'/>
+</layer>
+<layer name='Zh'>
+<tutorial04 angle='120' x='40' moveSpeed='100' y='274' rotateSpeed='100' locale='zh'/>
+<tutorialText x='39' y='253' text='可用你的手指*移动一些绳钩' locale='zh' width='150'/>
+</layer>
+<layer name='Ja'>
+<tutorial04 angle='120' x='40' moveSpeed='100' y='274' rotateSpeed='100' locale='ja'/>
+<tutorialText x='50' y='235' text='指で*動かすことの*できる*ロープフックも*あります' locale='ja' width='200'/>
+</layer>
+<layer name='it'>
+<tutorial04 angle='100' x='65' moveSpeed='100' y='278' rotateSpeed='100' locale='it'/>
+<tutorialText x='60' y='253' text='Puoi muovere alcuni ganci di corda con il dito' locale='it' width='215'/>
+</layer><layer name='es'>
+<tutorial04 angle='130' x='30' moveSpeed='100' y='264' rotateSpeed='100' locale='es'/>
+<tutorialText x='28' y='249' text='Los enganches de algunas cuerdas se pueden mover con el dedo.' locale='es' width='280'/>
+</layer><layer name='ko'>
+<tutorial04 angle='90' x='65' moveSpeed='100' y='274' rotateSpeed='100' locale='ko'/>
+<tutorialText x='60' y='249' text='어떤 줄 고리는 *손가락으로 *움직일 수 있어요.' locale='ko' width='270'/>
+</layer><layer name='br'>
+<tutorial04 angle='120' x='42' moveSpeed='100' y='275' rotateSpeed='100' locale='br'/>
+<tutorialText x='40' y='253' text='Alguns ganchos de corda podem ser movidos com o seu dedo' locale='br' width='260'/>
+</layer><layer name='nl'>
+<tutorial04 angle='120' x='39' moveSpeed='100' y='278' rotateSpeed='100' locale='nl'/>
+<tutorialText x='35' y='240' text='Je kunt sommige touwhaken met je vinger verplaatsen' locale='nl' width='180'/>
+</layer></map>

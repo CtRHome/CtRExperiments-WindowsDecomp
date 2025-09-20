@@ -1,0 +1,19 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="480" />
+<gameDesign special="1" twoParts="false" ropePhysicsSpeed="1.0" water="0" waterSpeed="0" />
+</layer>
+<layer name="Objects">
+<hand x="160" y="250" segmentsCount="2" segment1Angle="90" segment1Length="75" segment1Rotatable="true" segment2Angle="90" segment2Length="37" segment2Rotatable="false" segment3Angle="0" segment3Length="10" segment3Rotatable="false" />
+<candy x="230" y="100" />
+<grab x="230" y="35" length="30" wheel="false" gun="false" kickable="false" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<hand x="160" y="250" segmentsCount="2" segment1Angle="90" segment1Length="75" segment1Rotatable="true" segment2Angle="0" segment2Length="75" segment2Rotatable="false" segment3Angle="0" segment3Length="10" segment3Rotatable="true" />
+<hand x="160" y="250" segmentsCount="2" segment1Angle="90" segment1Length="75" segment1Rotatable="true" segment2Angle="180" segment2Length="110" segment2Rotatable="false" segment3Angle="0" segment3Length="10" segment3Rotatable="false" />
+<target x="280" y="435" />
+<spike1 x="281" y="148" angle="0" size="1" toggled="false" />
+<star x="83" y="113" timeout="-1" />
+<bouncer1 x="35" y="445" angle="0" size="1" path="0,-106" moveSpeed="65" />
+<star x="280" y="365" timeout="-1" />
+<star x="40" y="410" timeout="-1" />
+</layer>
+</map>

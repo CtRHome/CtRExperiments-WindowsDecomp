@@ -1,0 +1,55 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="480" />
+<gameDesign special="1" twoParts="false" ropePhysicsSpeed="1" water="370" waterSpeed="0" />
+</layer>
+<layer name="Objects">
+<target x="274" y="83" />
+<grab x="163" y="335" length="120" wheel="false" gun="false" kickable="false" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<candy x="163" y="181" />
+<load x="161" y="128" />
+<star x="158" y="42" timeout="-1" />
+<pump x="62" y="89" angle="0" />
+<star x="34" y="223" path="252,0," moveSpeed="60" timeout="-1" />
+<star x="284" y="224" path="-252,0," moveSpeed="60" timeout="-1" />
+</layer>
+<layer name='Ru'>
+<tutorialText x='6' y='173' text='Улитка тянет леденец вниз. Ее можно сбросить нажатием.' locale='ru' width='150'/>
+<tutorial04 angle='180' x='105' moveSpeed='100' y='169' rotateSpeed='100' locale='ru'/>
+</layer>
+<layer name='En'>
+<tutorialText x='20' y='175' text='The snail pulls the candy down. Tap it to make it fall and let go of the candy.' locale='en' width='125'/>
+<tutorial04 angle='180' x='106' moveSpeed='100' y='167' rotateSpeed='100' locale='en'/>
+</layer>
+<layer name='De'>
+<tutorialText x='12' y='175' text='Die Schnecke zieht den Bonbon hinab. Tippe die Schnecke an, damit sie ihn loslässt.' locale='de' width='144'/>
+<tutorial04 angle='180' x='104' moveSpeed='100' y='167' rotateSpeed='100' locale='de'/>
+</layer>
+<layer name='Fr'>
+<tutorial04 angle='180' x='105' moveSpeed='100' y='170' rotateSpeed='100' locale='fr'/>
+<tutorialText x='12' y='175' text='L&apos;escargot tire le bonbon vers le bas. Tape pour le faire lâcher.' locale='fr' width='140'/>
+</layer>
+<layer name="Zh">
+<tutorialText x="104" y="351" locale="zh" text="蜗牛将糖果向下拉。*触按它可使蜗牛放开糖果。" width="150" />
+<tutorial09 x="49" y="386" locale="zh" moveSpeed="100" rotateSpeed="100" />
+</layer>
+<layer name='Ja'>
+<tutorialText x='0' y='178' text='カタツムリは*キャンディを*引きずり*下ろします。*タップして*カタツムリを*落とし、*キャンディを*離させます。' locale='ja' width='150'/>
+<tutorial04 angle='180' x='106' moveSpeed='100' y='163' rotateSpeed='100' locale='ja'/>
+</layer>
+<layer name='it'>
+<tutorialText x='12' y='173' text='La lumaca trascina il bonbon verso il basso. Tocca la lumaca per farla cadere e farle lasciare il bonbon.' locale='it' width='150'/>
+<tutorial04 angle='170' x='105' moveSpeed='100' y='165' rotateSpeed='100' locale='it'/>
+</layer><layer name='es'>
+<tutorialText x='10' y='173' text='Los caracoles hacen que se hundan los caramelos. Toca el caracol para hacerlo caer.' locale='es' width='140'/>
+<tutorial04 angle='170' x='105' moveSpeed='100' y='165' rotateSpeed='100' locale='es'/>
+</layer><layer name='ko'>
+<tutorialText x='12' y='190' text='달팽이가 사탕을 *끌어당겨요. 달팽이를 *터치해서 떨어뜨리면 사탕을 *내놓아요.' locale='ko' width='150'/>
+<tutorial04 angle='170' x='105' moveSpeed='100' y='165' rotateSpeed='100' locale='ko'/>
+</layer><layer name='br'>
+<tutorialText x='14' y='173' text='O caracol puxa o doce para baixo. Toque-o para que solte o doce.' locale='br' width='130'/>
+<tutorial04 angle='170' x='105' moveSpeed='100' y='165' rotateSpeed='100' locale='br'/>
+</layer><layer name='nl'>
+<tutorialText x='14' y='173' text='De slak trekt het snoepgoed omlaag. Tik om de slak te laten vallen.' locale='nl' width='130'/>
+<tutorial04 angle='170' x='105' moveSpeed='100' y='165' rotateSpeed='100' locale='nl'/>
+</layer></map>

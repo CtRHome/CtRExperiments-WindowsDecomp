@@ -1,0 +1,27 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="480" />
+<gameDesign ropePhysicsSpeed="1.0" special="1" twoParts="false" />
+</layer>
+<layer name="Layer 1">
+<target x="164" y="38" />
+<grab x="164" y="455" length="70" wheel="false" gun="false" kickable="true" kicked="false" radius="-1" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<candy x="161" y="368" />
+<bubble x="162" y="368" />
+<pump x="77" y="243" angle="0" />
+<spike1 x="410" y="176" angle="0" size="1" path="-500,0, -500,130,0,130,0,0" moveSpeed="50" toggled="false" />
+<spike1 x="-90" y="176" angle="0" size="1" path="0,0, 0,130, 500,130,500,0" moveSpeed="50" toggled="false" />
+<spike1 x="35" y="176" angle="0" size="1" path="-125,0, -125,130, 375,130, 375,0   " moveSpeed="50" toggled="false" />
+<spike1 x="160" y="176" angle="0" size="1" path="-250,0, -250,130, 250,130, 250,0 " moveSpeed="50" toggled="false" />
+<spike1 x="285" y="176" angle="0" size="1" path="-375,0, -375,130, 125,130, 125,0" moveSpeed="50" toggled="false" />
+<spike1 x="410" y="306" angle="0" size="1" path="0,0, 0,-130, -500,-130,-500,0" moveSpeed="50" toggled="false" />
+<spike1 x="285" y="306" angle="0" size="1" path="125,0, 125,-130, -375,-130, -375,0" moveSpeed="50" toggled="false" />
+<spike1 x="160" y="306" angle="0" size="1" path="250,0, 250,-130, -250,-130, -250,0 " moveSpeed="50" toggled="false" />
+<spike1 x="35" y="306" angle="0" size="1" path="375,0, 374,-130, -125,-130, -125,0" moveSpeed="50" toggled="false" />
+<spike1 x="-90" y="306" angle="0" size="1" path="500,0, 500,-130, 0,-130, 0,0" moveSpeed="50" toggled="false" />
+<pump x="247" y="248" angle="180" />
+<star x="76" y="357" path="0,-56," moveSpeed="40" timeout="-1" />
+<star x="162" y="122" timeout="20" />
+<star x="246" y="357" path="0,-56," moveSpeed="40" timeout="-1" />
+</layer>
+</map>

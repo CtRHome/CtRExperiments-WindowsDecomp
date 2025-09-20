@@ -1,0 +1,16 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="480" />
+<gameDesign ropePhysicsSpeed="1.0" twoParts="false" />
+</layer>
+<layer name="Objects">
+<target x="161" y="48" />
+<candy x="66" y="165" />
+<rocket x="71" y="162" angle="270" impulse="20" impulseFactor="0.6" time="-1" isRotatable="false" />
+<grab x="160" y="210" length="60" wheel="false" gun="false" kickable="false" kicked="false" radius="-1" invisible="false" moveLength="100" moveVertical="false" moveOffset="50" spider="false" part="L" />
+<grab x="50" y="348" length="60" wheel="false" gun="false" kickable="false" kicked="false" radius="60" invisible="false" moveLength="250" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<star x="285" y="144" timeout="-1" />
+<star x="31" y="145" timeout="-1" />
+<star x="160" y="457" timeout="-1" />
+</layer>
+</map>

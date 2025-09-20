@@ -1,0 +1,20 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="480" />
+<gameDesign special="1" twoParts="false" ropePhysicsSpeed="1.0" water="0" waterSpeed="0" />
+</layer>
+<layer name="Objects">
+<star x="282" y="219" timeout="-1" />
+<star x="98" y="350" timeout="-1" />
+<star x="200" y="278" timeout="-1" />
+<candy x="43" y="177" />
+<target x="282" y="435" />
+<pump x="46" y="120" angle="90" />
+<rocket x="42" y="71" angle="0" impulse="20" impulseFactor="0.6" time="-1" isRotatable="false" />
+<hand x="198" y="351" segmentsCount="1" segment1Angle="0" segment1Length="90" segment1Rotatable="true" segment2Angle="0" segment2Length="10" segment2Rotatable="true" segment3Angle="0" segment3Length="10" segment3Rotatable="true" />
+<rocket x="279" y="71" angle="0" impulse="20" impulseFactor="0.6" time="-1" isRotatable="true" />
+<rocket x="174" y="70" angle="0" impulse="20" impulseFactor="0.6" time="-1" isRotatable="true" />
+<rocket x="37" y="354" angle="0" impulse="20" impulseFactor="0.6" time="-1" isRotatable="true" />
+<bouncer1 x="44" y="219" angle="0" size="1" />
+</layer>
+</map>

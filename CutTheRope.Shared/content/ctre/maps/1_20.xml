@@ -1,0 +1,58 @@
+<map>
+<layer name="settings">
+<map gridSize="32" width="320" height="960" />
+<gameDesign special="1" twoParts="false" ropePhysicsSpeed="1.0" water="0" waterSpeed="0" />
+</layer>
+<layer name="Objects">
+<candy x="78" y="827" />
+<grab x="79" y="750" length="50" wheel="false" gun="false" kickable="false" kicked="false" radius="-1" invisible="false" moveLength="0" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<target x="70" y="65" />
+<grab x="120" y="246" length="75" wheel="false" gun="false" kickable="false" kicked="false" radius="60" invisible="false" moveLength="200" moveVertical="false" moveOffset="60" spider="false" part="L" />
+<star x="256" y="886" path="0,-900," moveSpeed="80" timeout="10.3" />
+<bubble x="78" y="885" />
+<pump x="78" y="448" angle="-90" />
+<star x="203" y="884" path="0,-900," moveSpeed="60" timeout="13.8" />
+<star x="150" y="884" path="0,-900," moveSpeed="40" timeout="20.8" />
+<grab x="81" y="545" length="100" wheel="false" gun="false" kickable="false" kicked="false" radius="40" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+<grab x="80" y="667" length="100" wheel="false" gun="false" kickable="false" kicked="false" radius="40" invisible="false" moveLength="-1" moveVertical="false" moveOffset="0" spider="false" part="L" />
+</layer>
+<layer name='Ru'>
+<tutorial09 x='207' moveSpeed='100' y='690' rotateSpeed='100' locale='ru'/>
+<tutorialText x='161' y='708' text='Иногда нужно действовать быстро' locale='ru' width='100'/>
+</layer>
+<layer name='En'>
+<tutorialText x='161' y='708' text='Sometimes, you need to be fast' locale='en' width='100'/>
+<tutorial09 x='206' moveSpeed='100' y='690' rotateSpeed='100' locale='en'/>
+</layer>
+<layer name='De'>
+<tutorialText x='161' y='708' text='Manchmal muss man schnell sein.' locale='de' width='100'/>
+<tutorial09 x='207' moveSpeed='100' y='691' rotateSpeed='100' locale='de'/>
+</layer>
+<layer name='Fr'>
+<tutorial09 x='206' moveSpeed='100' y='691' rotateSpeed='100' locale='fr'/>
+<tutorialText x='145' y='708' text='Parfois, vous devez faire preuve de rapidité' locale='fr' width='130'/>
+</layer>
+<layer name='Zh'>
+<tutorialText x='169' y='708' text='有些时候*你必须身手敏捷' locale='zh' width='80'/>
+<tutorial09 x='206' moveSpeed='100' y='690' rotateSpeed='100' locale='zh'/>
+</layer>
+<layer name='Ja'>
+<tutorialText x='143' y='708' text='ときには*素早く*行動する*必要が*あります' locale='ja' width='130'/>
+<tutorial09 x='206' moveSpeed='100' y='690' rotateSpeed='100' locale='ja'/>
+</layer>
+<layer name='it'>
+<tutorial09 x='207' moveSpeed='100' y='690' rotateSpeed='100' locale='it'/>
+<tutorialText x='161' y='708' text='Certe volte devi essere veloce' locale='it' width='100'/>
+</layer><layer name='es'>
+<tutorial09 x='207' moveSpeed='100' y='690' rotateSpeed='100' locale='es'/>
+<tutorialText x='151' y='708' text='A veces, la clave está en la rapidez.' locale='es' width='120'/>
+</layer><layer name='ko'>
+<tutorial09 x='207' moveSpeed='100' y='690' rotateSpeed='100' locale='ko'/>
+<tutorialText x='161' y='708' text='때로는 빠른 *손놀림이 필요해요.' locale='ko' width='100'/>
+</layer><layer name='br'>
+<tutorial09 x='207' moveSpeed='100' y='690' rotateSpeed='100' locale='br'/>
+<tutorialText x='161' y='708' text='Às vezes, você precisa ser rápido' locale='br' width='100'/>
+</layer><layer name='nl'>
+<tutorial09 x='207' moveSpeed='100' y='690' rotateSpeed='100' locale='nl'/>
+<tutorialText x='161' y='708' text='Soms moet je snel zijn' locale='nl' width='100'/>
+</layer></map>
